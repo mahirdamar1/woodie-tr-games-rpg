@@ -88,7 +88,7 @@ stats.fireUsed = 0
   msg.channel.send(inf1)
 }
 
-if(input === "bitir" && isPlaying == true) {
+if(input === "-bitir" && isPlaying == true) {
     isPlaying = false
     round = 0
 		let bozgun1 = new Discord.RichEmbed()
