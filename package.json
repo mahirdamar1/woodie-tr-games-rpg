@@ -1,5 +1,5 @@
 {
-  "name": "woodierpg",
+  "name": "sforcerpg",
   "version": "0.0.1",
   "description": "lel",
   "main": "bot.js",
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "barış demirci",
+  "author": "mahir damar",
   "license": "ISC"
 }
