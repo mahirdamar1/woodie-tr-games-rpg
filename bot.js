@@ -7,7 +7,7 @@ bot.on('ready', () => {
     console.log('[Client] Bağlandı! Kullanıcı adı: ' + bot.user.username + " - " + bot.user.id);
 });
 
-const prefix = '+'
+const prefix = '-'
 var isPlaying = false
 var round = 0
 var stats = {}
